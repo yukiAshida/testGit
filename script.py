@@ -22,12 +22,5 @@ ax = fig.add_subplot(1,2,2)
 ax.plot(x, z)
 plt.show()
 
-<<<<<<< HEAD
 print("HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
 y = 10000
-=======
-print("haaaaaaaaaaaaaaaaaaa")
-x = 1000
-
-z=1
->>>>>>> py-new
