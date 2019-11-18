@@ -22,3 +22,5 @@ plt.show()
 
 print("haaaaaaaaaaaaaaaaaaa")
 x = 100
+
+z=1
