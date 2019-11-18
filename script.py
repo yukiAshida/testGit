@@ -24,3 +24,6 @@ plt.show()
 
 print("HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
 y = 10000
+
+print("new")
+print("new2")
