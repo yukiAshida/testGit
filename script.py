@@ -21,3 +21,4 @@ ax.plot(x, y)
 plt.show()
 
 print("haaaaaaaaaaaaaaaaaaa")
+x = 100
