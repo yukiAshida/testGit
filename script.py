@@ -21,6 +21,6 @@ ax.plot(x, y)
 plt.show()
 
 print("haaaaaaaaaaaaaaaaaaa")
-x = 100
+x = 1000
 
 z=1
