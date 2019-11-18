@@ -1,10 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-<<<<<<< HEAD
-=======
-
->>>>>>> py-new
 x = np.linspace(0, 2*np.pi, 1000)
 y = np.sin(x)
 
@@ -26,8 +22,4 @@ ax = fig.add_subplot(1,2,2)
 ax.plot(x, z)
 plt.show()
 
-<<<<<<< HEAD
 print("HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
-=======
-print("haaaaaaaaaaaaaaaaaaa")
->>>>>>> py-new
