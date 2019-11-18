@@ -15,6 +15,8 @@ ax.set_ylabel("y-axis")
 ax.set_xlim(0, 2*np.pi)
 ax.set_ylim(-1,1)
 
+print("debug")
+
 ax.plot(x, y)
 plt.show()
 
