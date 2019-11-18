@@ -23,4 +23,4 @@ ax.plot(x, z)
 plt.show()
 
 print("HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
-y = 100
+y = 10000
