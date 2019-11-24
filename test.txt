@@ -7,3 +7,4 @@ Changed test.txt
 I am original.
 
 added.
+added.
